@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>My Coding Journey</h1>
+       <h6>by Joshua Turner</h6>
+        <div>
+            <p class="intro">I am 33 years old and was not happy with my working life, it made me anxious and stressed turning my free weekends into recovery time rather than relaxation time.</p>
+        </div>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0nF9T4r47F0JY-cdgCZHmpar2tKLY1pTsw&usqp=CAU" alt="" srcset="">
+    <link href="./resources/css/index.css" type="text/css" rel="stylesheet">
+    
+      <div>
+        <p> My journey started while working my 9-6 job monday to friday in medical recruitment.
+            I have a friend who taught himself to code and is now able to travel the world while working and earning very good money.
+        </p>
+      </div>
+        <h2>I knew I needed to make a change and soon!!</h2>
+           <img class="image2" src="https://www.workitdaily.com/media-library/image.jpg?id=19295499&width=980&quality=85">
+  <div>
+    <p>My first step was reseraching who i should learn coding with, and Code Academy was reffered to by my friend I mentioned earlier.
+        Code academy seemed a very good choice as it is recognised by some of the largest computer companies in the world and had many great reviews.
+        I decided to jump stright in and paid for the pro course to become a Front End Egineer. 
+        Handing in my notice was an incredible feeling already making me feel happier and a sense of freedom and excitment.
+    </p>
+  </div>
+</body>
+</html>
